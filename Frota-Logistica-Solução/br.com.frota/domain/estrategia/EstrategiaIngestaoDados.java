@@ -1,4 +1,4 @@
-package domain.entity.strategy;
+package domain.estrategia;
 
 public class EstrategiaIngestaoDados {
 }

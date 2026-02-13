@@ -1,4 +1,4 @@
-package domain.entity.repository;
+package domain.repositorio;
 
 public class TelemetriaRepositorio {
 }
